@@ -37,15 +37,9 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
-
 ---
 
 ## 📚 Currently Learning  
-<p float="left">
-  <img src="https://skillicons.dev/icons?i=opencv" />
-  <img src="https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
 
 
 
