@@ -22,7 +22,7 @@ HTML • CSS • Python
 
 ## 📚 Currently Learning
 
-JavaScript • OpenCV • Matplotlib • NumPy
+JavaScript 
 
 ---
 
