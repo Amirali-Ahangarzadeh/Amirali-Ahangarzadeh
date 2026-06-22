@@ -8,7 +8,7 @@ and continuously learning new technologies.
 ## 📌 About Me
 
 - 🎓 Computer Engineering student (2nd year)
-- 🤖 Exploring Artificial Intelligence
+- 🤖 Learning Full-Stack Web Development
 - 🌱 Building small projects while learning
 - 📫 Email: amiirali.a.z@gmail.com
 
